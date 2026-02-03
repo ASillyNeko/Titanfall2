@@ -1,0 +1,40 @@
+# list of glob patterns to be excluded when repacking the vpk
+# - use a leading slash anchor the path
+# - use a exclamation mark prefix to negate the pattern
+# - patterns are scanned from start to end
+# - the first matched rule sets the file as excluded unless a negated rule afterwards also matches it
+# - no further rules are matched after a negated exclusion
+
+*.vpk
+/.vpk*
+.nfs*
+.directory
+.Trash-*
+System Volume Information
+Thumbs.db
+Thumbs.db:encryptable
+Desktop.ini
+ehthumbs.db
+ehthumbs_vista.db
+.DS_Store
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.vscode
+.idea
+.git*
+.fr-*
+[._]*.s[a-v][a-z]
+*.swp
+*.part
+._*
+~*
+*~
+.example_for_negated_rules_*
+!.example_for_negated_rules_include_me

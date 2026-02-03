@@ -1,0 +1,16 @@
+"mp_wargames"
+{
+	assets
+	{	
+		minimap overviews\mp_wargames
+
+	}
+
+	pos_x -5923
+	pos_y 5105
+	scale 9.5
+	displayDist 1024
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}
