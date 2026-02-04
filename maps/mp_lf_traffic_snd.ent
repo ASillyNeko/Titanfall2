@@ -1,0 +1,1273 @@
+ENTITIES01
+{
+"origin" "256 204 272"
+"triggerNearbyRadius" "0"
+"triggerFilterTeamOther" "0"
+"triggerFilterTeamNeutral" "0"
+"triggerFilterTeamMilitia" "1"
+"triggerFilterTeamIMC" "1"
+"triggerFilterTeamBeast" "0"
+"triggerFilterPlayer" "all"
+"triggerFilterPhaseShift" "any"
+"triggerFilterNpcOwnedByPlayer" "any"
+"triggerFilterNpcFlip" "0"
+"triggerFilterNpc" "none"
+"triggerFilterNonCharacter" "0"
+"StartDisabled" "0"
+"spawnflags" "4097"
+"triggerFilterUseNew" "1"
+"play_event" "Traffic_Amb_Int_VirtualAmbience"
+"environment" "Base_Large_Room"
+"classname" "trigger_soundscape"
+"*trigger_brush_0_plane_0" "-1 0 0 1216"
+"*trigger_brush_0_plane_1" "1 0 -0 1216"
+"*trigger_brush_0_plane_2" "-0 -1 0 2228"
+"*trigger_brush_0_plane_3" "0 1 0 2228"
+"*trigger_brush_0_plane_4" "-0 -0 -1 272"
+"*trigger_brush_0_plane_5" "0 0 1 272"
+"*trigger_brush_0_plane_6" "-0.70710677 0.70710677 0 2435.2756"
+"*trigger_brush_0_plane_7" "-0.70710677 -0.70710677 0 2435.2756"
+"*trigger_brush_0_plane_8" "0.70710677 -0.70710677 0 2435.2756"
+"*trigger_brush_0_plane_9" "0.70710677 0.70710677 0 2435.2756"
+"*trigger_bounds_mins" "-1216 -2228 -272"
+"*trigger_bounds_maxs" "1216 2228 272"
+}
+{
+"origin" "258 72 64"
+"triggerNearbyRadius" "0"
+"triggerFilterTeamOther" "0"
+"triggerFilterTeamNeutral" "0"
+"triggerFilterTeamMilitia" "1"
+"triggerFilterTeamIMC" "1"
+"triggerFilterTeamBeast" "0"
+"triggerFilterPlayer" "all"
+"triggerFilterPhaseShift" "any"
+"triggerFilterNpcOwnedByPlayer" "any"
+"triggerFilterNpcFlip" "0"
+"triggerFilterNpc" "none"
+"triggerFilterNonCharacter" "0"
+"StartDisabled" "0"
+"spawnflags" "4097"
+"triggerFilterUseNew" "1"
+"environment" "Base_Small_Room"
+"classname" "trigger_soundscape"
+"*trigger_brush_0_plane_0" "-1 -0 0 306"
+"*trigger_brush_0_plane_1" "1 0 -0 306"
+"*trigger_brush_0_plane_2" "0 -1 0 200"
+"*trigger_brush_0_plane_3" "-0 1 0 200"
+"*trigger_brush_0_plane_4" "-0 -0 -1 64"
+"*trigger_brush_0_plane_5" "-0 -0 1 64"
+"*trigger_brush_0_plane_6" "-0.70710677 0.70710677 0 357.79602"
+"*trigger_brush_0_plane_7" "-0.70710677 -0.70710677 0 357.79602"
+"*trigger_brush_0_plane_8" "0.70710677 -0.70710677 -0 357.79602"
+"*trigger_brush_0_plane_9" "0.70710677 0.70710677 -0 357.79602"
+"*trigger_bounds_mins" "-306 -200 -64"
+"*trigger_bounds_maxs" "306 200 64"
+}
+{
+"origin" "918 72 174"
+"triggerNearbyRadius" "0"
+"triggerFilterTeamOther" "0"
+"triggerFilterTeamNeutral" "0"
+"triggerFilterTeamMilitia" "1"
+"triggerFilterTeamIMC" "1"
+"triggerFilterTeamBeast" "0"
+"triggerFilterPlayer" "all"
+"triggerFilterPhaseShift" "any"
+"triggerFilterNpcOwnedByPlayer" "any"
+"triggerFilterNpcFlip" "0"
+"triggerFilterNpc" "none"
+"triggerFilterNonCharacter" "0"
+"StartDisabled" "0"
+"spawnflags" "4097"
+"triggerFilterUseNew" "1"
+"environment" "Base_Medium_Room"
+"classname" "trigger_soundscape"
+"*trigger_brush_0_plane_0" "-1 -0 0 354"
+"*trigger_brush_0_plane_1" "1 0 0 354"
+"*trigger_brush_0_plane_2" "-0 -1 -0 500"
+"*trigger_brush_0_plane_3" "0 1 0 500"
+"*trigger_brush_0_plane_4" "-0 0 -1 153.9994"
+"*trigger_brush_0_plane_5" "0 -0 1 154"
+"*trigger_brush_0_plane_6" "-0.70710677 0.70710677 0 603.86914"
+"*trigger_brush_0_plane_7" "-0.70710677 -0.70710677 0 603.86914"
+"*trigger_brush_0_plane_8" "0.70710677 -0.70710677 0 603.86914"
+"*trigger_brush_0_plane_9" "0.70710677 0.70710677 0 603.86914"
+"*trigger_bounds_mins" "-354 -500 -153.9994"
+"*trigger_bounds_maxs" "354 500 154"
+}
+{
+"origin" "-408 70 174"
+"triggerNearbyRadius" "0"
+"triggerFilterTeamOther" "0"
+"triggerFilterTeamNeutral" "0"
+"triggerFilterTeamMilitia" "1"
+"triggerFilterTeamIMC" "1"
+"triggerFilterTeamBeast" "0"
+"triggerFilterPlayer" "all"
+"triggerFilterPhaseShift" "any"
+"triggerFilterNpcOwnedByPlayer" "any"
+"triggerFilterNpcFlip" "0"
+"triggerFilterNpc" "none"
+"triggerFilterNonCharacter" "0"
+"StartDisabled" "0"
+"spawnflags" "4097"
+"triggerFilterUseNew" "1"
+"environment" "Base_Medium_Room"
+"classname" "trigger_soundscape"
+"*trigger_brush_0_plane_0" "-1 -0 -0 356"
+"*trigger_brush_0_plane_1" "1 -0 0 356"
+"*trigger_brush_0_plane_2" "-0 -1 -0 498"
+"*trigger_brush_0_plane_3" "-0 1 0 498"
+"*trigger_brush_0_plane_4" "-0 0 -1 153.9994"
+"*trigger_brush_0_plane_5" "0 -0 1 154"
+"*trigger_brush_0_plane_6" "-0.70710677 0.70710677 0 603.86914"
+"*trigger_brush_0_plane_7" "-0.70710677 -0.70710677 0 603.86914"
+"*trigger_brush_0_plane_8" "0.70710677 -0.70710677 0 603.86914"
+"*trigger_brush_0_plane_9" "0.70710677 0.70710677 0 603.86914"
+"*trigger_bounds_mins" "-356 -498 -153.9994"
+"*trigger_bounds_maxs" "356 498 154"
+}
+{
+"origin" "918 72 174"
+"triggerNearbyRadius" "0"
+"triggerFilterTeamOther" "0"
+"triggerFilterTeamNeutral" "0"
+"triggerFilterTeamMilitia" "1"
+"triggerFilterTeamIMC" "1"
+"triggerFilterTeamBeast" "0"
+"triggerFilterPlayer" "all"
+"triggerFilterPhaseShift" "any"
+"triggerFilterNpcOwnedByPlayer" "any"
+"triggerFilterNpcFlip" "0"
+"triggerFilterNpc" "none"
+"triggerFilterNonCharacter" "0"
+"StartDisabled" "0"
+"spawnflags" "4097"
+"triggerFilterUseNew" "1"
+"environment" "Base_Medium_Room"
+"classname" "trigger_soundscape"
+"*trigger_brush_0_plane_0" "-1 -0 0 354"
+"*trigger_brush_0_plane_1" "1 0 0 354"
+"*trigger_brush_0_plane_2" "-0 -1 -0 500"
+"*trigger_brush_0_plane_3" "0 1 0 500"
+"*trigger_brush_0_plane_4" "-0 0 -1 153.9994"
+"*trigger_brush_0_plane_5" "0 -0 1 154"
+"*trigger_brush_0_plane_6" "-0.70710677 0.70710677 0 603.86914"
+"*trigger_brush_0_plane_7" "-0.70710677 -0.70710677 0 603.86914"
+"*trigger_brush_0_plane_8" "0.70710677 -0.70710677 0 603.86914"
+"*trigger_brush_0_plane_9" "0.70710677 0.70710677 0 603.86914"
+"*trigger_bounds_mins" "-354 -500 -153.9994"
+"*trigger_bounds_maxs" "354 500 154"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "2104 -696 272"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "77.121 -2016 368.524"
+"targetname" "Traffic_Emit_Fan_01"
+"soundName" "Traffic_Emit_Fan"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "226.533 -2016 369.387"
+"targetname" "Traffic_Emit_Fan_2"
+"soundName" "Traffic_Emit_Fan"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "370.477 -2016 368.895"
+"targetname" "Traffic_Emit_Fan_3"
+"soundName" "Traffic_Emit_Fan"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "411.549 2440 377.291"
+"targetname" "Traffic_Emit_Fan_4"
+"soundName" "Traffic_Emit_Fan"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "277.469 2440 374.496"
+"targetname" "Traffic_Emit_Fan_5"
+"soundName" "Traffic_Emit_Fan"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "115.39 2440 381.421"
+"targetname" "Traffic_Emit_Fan_6"
+"soundName" "Traffic_Emit_Fan"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "835.234 -1290 134.029"
+"targetname" "Traffic_Emit_Crane_01"
+"soundName" "Traffic_Emit_Crane"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-53.725 -1968.41 672.001"
+"targetname" "Traffic_Emit_DomePanel_Hum_01"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-831.996 -1938.82 667.838"
+"targetname" "Traffic_Emit_DomePanel_Hum_2"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "396.682 -1970 671.995"
+"targetname" "Traffic_Emit_DomePanel_Hum_3"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1124.4 -2001.57 671.996"
+"targetname" "Traffic_Emit_DomePanel_Hum_4"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1469.69 -1487.22 609.554"
+"targetname" "Traffic_Emit_DomePanel_Hum_5"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "658.463 -1431.29 671.996"
+"targetname" "Traffic_Emit_DomePanel_Hum_6"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "120.963 -1397.83 672.003"
+"targetname" "Traffic_Emit_DomePanel_Hum_7"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-494.488 -1387.13 671.997"
+"targetname" "Traffic_Emit_DomePanel_Hum_8"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-927.158 -1348.06 629.901"
+"targetname" "Traffic_Emit_DomePanel_Hum_9"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-927.771 -1076.27 629.476"
+"targetname" "Traffic_Emit_DomePanel_Hum_10"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-932.408 -472.435 626.395"
+"targetname" "Traffic_Emit_DomePanel_Hum_11"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-621.854 -444.63 671.996"
+"targetname" "Traffic_Emit_DomePanel_Hum_12"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-550.546 -1030.62 672.003"
+"targetname" "Traffic_Emit_DomePanel_Hum_13"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-243.59 -938.422 672.001"
+"targetname" "Traffic_Emit_DomePanel_Hum_14"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-274.276 -1273.21 672.003"
+"targetname" "Traffic_Emit_DomePanel_Hum_15"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "130.745 -1023.74 671.997"
+"targetname" "Traffic_Emit_DomePanel_Hum_16"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "369.538 -771.357 672"
+"targetname" "Traffic_Emit_DomePanel_Hum_17"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "649.113 -1096.63 671.999"
+"targetname" "Traffic_Emit_DomePanel_Hum_18"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "991.443 -825.091 672.005"
+"targetname" "Traffic_Emit_DomePanel_Hum_19"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1441.02 -988.946 628.698"
+"targetname" "Traffic_Emit_DomePanel_Hum_20"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1440.31 -443.063 629.115"
+"targetname" "Traffic_Emit_DomePanel_Hum_21"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "709.805 -414.847 672.005"
+"targetname" "Traffic_Emit_DomePanel_Hum_22"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "43.6649 -483.555 672.002"
+"targetname" "Traffic_Emit_DomePanel_Hum_23"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-355.73 -447.392 671.996"
+"targetname" "Traffic_Emit_DomePanel_Hum_24"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1417.74 577.422 644.175"
+"targetname" "Traffic_Emit_DomePanel_Hum_25"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "895.499 622.24 671.995"
+"targetname" "Traffic_Emit_DomePanel_Hum_26"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "401.054 727.773 671.996"
+"targetname" "Traffic_Emit_DomePanel_Hum_27"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-506.267 677.974 672.006"
+"targetname" "Traffic_Emit_DomePanel_Hum_28"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-934.65 621.754 624.948"
+"targetname" "Traffic_Emit_DomePanel_Hum_29"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-922.875 1092.7 632.723"
+"targetname" "Traffic_Emit_DomePanel_Hum_30"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "106.621 1187.85 672.007"
+"targetname" "Traffic_Emit_DomePanel_Hum_31"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "749.37 1093.6 672.002"
+"targetname" "Traffic_Emit_DomePanel_Hum_32"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1166.2 1014.5 672.002"
+"targetname" "Traffic_Emit_DomePanel_Hum_33"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1440.34 1215.62 629.107"
+"targetname" "Traffic_Emit_DomePanel_Hum_34"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1244.54 1458.99 671.998"
+"targetname" "Traffic_Emit_DomePanel_Hum_35"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "892.314 1481.22 672.002"
+"targetname" "Traffic_Emit_DomePanel_Hum_36"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "438.54 1438.57 672.001"
+"targetname" "Traffic_Emit_DomePanel_Hum_37"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-533.657 1463.09 671.999"
+"targetname" "Traffic_Emit_DomePanel_Hum_38"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-939.365 1440.29 621.728"
+"targetname" "Traffic_Emit_DomePanel_Hum_39"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-939.548 1859.18 621.604"
+"targetname" "Traffic_Emit_DomePanel_Hum_40"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "181.422 1787.07 671.994"
+"targetname" "Traffic_Emit_DomePanel_Hum_41"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "849.329 1801.99 672.001"
+"targetname" "Traffic_Emit_DomePanel_Hum_42"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1424.64 1896.54 639.573"
+"targetname" "Traffic_Emit_DomePanel_Hum_43"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1270.06 2337.51 671.998"
+"targetname" "Traffic_Emit_DomePanel_Hum_44"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "735.19 2355.25 672.008"
+"targetname" "Traffic_Emit_DomePanel_Hum_45"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "161.253 2335.12 671.993"
+"targetname" "Traffic_Emit_DomePanel_Hum_46"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-673.56 2404.46 672.001"
+"targetname" "Traffic_Emit_DomePanel_Hum_47"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-905.235 2152.5 644.544"
+"targetname" "Traffic_Emit_DomePanel_Hum_48"
+"soundName" "Traffic_Emit_DomePanel_Hum"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "374.917 58.2309 160.851"
+"targetname" "Traffic_Emit_Fan_7"
+"soundName" "Traffic_Emit_Fan"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-9.94076 238.084 7.07377"
+"targetname" "Traffic_Emit_Sludge_01"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "283.153 227.854 7.0735"
+"targetname" "Traffic_Emit_Sludge_2"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "582.49 143.023 7.07369"
+"targetname" "Traffic_Emit_Sludge_3"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "696.72 171.573 7.07331"
+"targetname" "Traffic_Emit_Sludge_4"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1108.15 210.93 7.07293"
+"targetname" "Traffic_Emit_Sludge_5"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1240.17 -164.466 7.07569"
+"targetname" "Traffic_Emit_Sludge_6"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1084.77 -239.324 7.07369"
+"targetname" "Traffic_Emit_Sludge_7"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "877.096 -351.624 7.07399"
+"targetname" "Traffic_Emit_Sludge_8"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1034.71 -443.378 7.07509"
+"targetname" "Traffic_Emit_Sludge_9"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "758.796 1114.97 7.07324"
+"targetname" "Traffic_Emit_Sludge_10"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "656.42 692.204 7.07178"
+"targetname" "Traffic_Emit_Sludge_11"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "886.178 631.599 7.0794"
+"targetname" "Traffic_Emit_Sludge_12"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1298.07 1286.4 7.07883"
+"targetname" "Traffic_Emit_Sludge_13"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1140.05 1413.21 7.07122"
+"targetname" "Traffic_Emit_Sludge_14"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1207.94 1545.44 7.06968"
+"targetname" "Traffic_Emit_Sludge_15"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "43.9634 1039.31 7.07561"
+"targetname" "Traffic_Emit_Sludge_16"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-20.9234 678.442 7.07287"
+"targetname" "Traffic_Emit_Sludge_17"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-234.904 675.273 7.07479"
+"targetname" "Traffic_Emit_Sludge_18"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-437.788 616.389 7.07118"
+"targetname" "Traffic_Emit_Sludge_19"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-619.486 590.61 7.07291"
+"targetname" "Traffic_Emit_Sludge_20"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-875.283 631.032 7.07248"
+"targetname" "Traffic_Emit_Sludge_21"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-840.758 799.74 7.07202"
+"targetname" "Traffic_Emit_Sludge_22"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-838.984 1224 7.0694"
+"targetname" "Traffic_Emit_Sludge_23"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-823.299 1421.37 7.07022"
+"targetname" "Traffic_Emit_Sludge_24"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-729.574 1511.61 7.07437"
+"targetname" "Traffic_Emit_Sludge_25"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-643.281 1618.46 7.07359"
+"targetname" "Traffic_Emit_Sludge_26"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-769.739 1765.38 7.07362"
+"targetname" "Traffic_Emit_Sludge_27"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-696.088 1930.64 7.07797"
+"targetname" "Traffic_Emit_Sludge_28"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-479.418 1812.51 7.07003"
+"targetname" "Traffic_Emit_Sludge_29"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-534.391 2103.48 7.07191"
+"targetname" "Traffic_Emit_Sludge_30"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-321.274 2084.08 7.07234"
+"targetname" "Traffic_Emit_Sludge_31"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "273.485 2092.66 7.07549"
+"targetname" "Traffic_Emit_Sludge_32"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "146.073 2273.79 7.07434"
+"targetname" "Traffic_Emit_Sludge_33"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "340.891 2301.38 7.07404"
+"targetname" "Traffic_Emit_Sludge_34"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "560.894 2254.47 7.07526"
+"targetname" "Traffic_Emit_Sludge_35"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "671.634 2116.96 7.07332"
+"targetname" "Traffic_Emit_Sludge_36"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "795.225 1997.34 7.07395"
+"targetname" "Traffic_Emit_Sludge_37"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1217.5 2147.17 7.0764"
+"targetname" "Traffic_Emit_Sludge_38"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1118.53 2020.26 7.07005"
+"targetname" "Traffic_Emit_Sludge_39"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1379.21 2016.68 7.0706"
+"targetname" "Traffic_Emit_Sludge_40"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-8.5149 1731.36 7.0736"
+"targetname" "Traffic_Emit_Sludge_41"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "148.19 1679.5 7.07371"
+"targetname" "Traffic_Emit_Sludge_42"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "291.54 1605.7 7.07422"
+"targetname" "Traffic_Emit_Sludge_43"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "394.944 1390.61 7.07392"
+"targetname" "Traffic_Emit_Sludge_44"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-107.064 256.935 7.07362"
+"targetname" "Traffic_Emit_Sludge_45"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-75.5825 404.525 7.07406"
+"targetname" "Traffic_Emit_Sludge_46"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-314.131 367.053 7.07439"
+"targetname" "Traffic_Emit_Sludge_47"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-545.037 266.567 7.07223"
+"targetname" "Traffic_Emit_Sludge_48"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-430.682 135.089 7.07479"
+"targetname" "Traffic_Emit_Sludge_49"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-430.655 -67.6618 7.07365"
+"targetname" "Traffic_Emit_Sludge_50"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-315.444 -99.6437 7.07415"
+"targetname" "Traffic_Emit_Sludge_51"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-162.502 -205.552 7.07398"
+"targetname" "Traffic_Emit_Sludge_52"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-680.572 -91.3455 7.07423"
+"targetname" "Traffic_Emit_Sludge_53"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-344.138 -709.012 7.07426"
+"targetname" "Traffic_Emit_Sludge_54"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-812.786 -688.616 7.0734"
+"targetname" "Traffic_Emit_Sludge_55"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-576.502 -714.56 7.07401"
+"targetname" "Traffic_Emit_Sludge_56"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-769.799 -1020.68 7.07242"
+"targetname" "Traffic_Emit_Sludge_57"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-668.214 -1098.78 7.07286"
+"targetname" "Traffic_Emit_Sludge_58"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-802.202 -1336.62 7.0725"
+"targetname" "Traffic_Emit_Sludge_59"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-768.074 -1709.82 7.03952"
+"targetname" "Traffic_Emit_Sludge_60"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-639.13 -1821.6 7.07069"
+"targetname" "Traffic_Emit_Sludge_61"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-512.356 -1644.78 7.07326"
+"targetname" "Traffic_Emit_Sludge_62"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-311.432 -1798.79 7.07436"
+"targetname" "Traffic_Emit_Sludge_63"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "-356.076 -1584.53 7.07328"
+"targetname" "Traffic_Emit_Sludge_64"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "80.3319 -1185.5 7.07385"
+"targetname" "Traffic_Emit_Sludge_65"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "165.345 -1161.79 7.07416"
+"targetname" "Traffic_Emit_Sludge_66"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "380.148 -1245.56 7.07378"
+"targetname" "Traffic_Emit_Sludge_67"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "492.571 -974.095 7.07344"
+"targetname" "Traffic_Emit_Sludge_68"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "767.607 -937.652 7.07308"
+"targetname" "Traffic_Emit_Sludge_69"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "744.28 -1768.24 7.07331"
+"targetname" "Traffic_Emit_Sludge_70"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1004.3 -1830.27 7.07384"
+"targetname" "Traffic_Emit_Sludge_71"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1059.27 -1665.97 7.07399"
+"targetname" "Traffic_Emit_Sludge_72"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1294.56 -1748.97 7.07331"
+"targetname" "Traffic_Emit_Sludge_73"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1269.05 -1464.41 7.07427"
+"targetname" "Traffic_Emit_Sludge_74"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1246.3 -1205.21 7.07413"
+"targetname" "Traffic_Emit_Sludge_75"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1065.62 -960.743 7.07286"
+"targetname" "Traffic_Emit_Sludge_76"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1248.97 -910.715 7.07465"
+"targetname" "Traffic_Emit_Sludge_77"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1261.17 -688.515 7.07778"
+"targetname" "Traffic_Emit_Sludge_78"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1335.01 -515.624 7.07301"
+"targetname" "Traffic_Emit_Sludge_79"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "1079.24 -557.56 7.07698"
+"targetname" "Traffic_Emit_Sludge_80"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "824.979 -608.563 7.07332"
+"targetname" "Traffic_Emit_Sludge_81"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+{
+"radius" "0"
+"enabled" "1"
+"origin" "681.307 -565.587 7.07281"
+"targetname" "Traffic_Emit_Sludge_82"
+"soundName" "Traffic_Emit_Sludge"
+"classname" "ambient_generic"
+}
+ 
