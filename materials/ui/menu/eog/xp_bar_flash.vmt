@@ -1,7 +1,0 @@
-Basic
-{
-	$basetexture		"white"
-	$translucent		1
-	$vertexalpha		1
-	$additive			1
-}

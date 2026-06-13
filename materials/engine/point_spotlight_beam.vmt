@@ -1,7 +1,0 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.00 ]"
-	"$basetexture" "particle/glows/light_beam_spot"
-	"$lampbeam" "1"
-}
